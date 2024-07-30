@@ -5,8 +5,7 @@ Welcome to the Python Conditionals!
 ## 📂 Folder Structure
 - **Assingment Lesson 2: Nested If**
   - `Task1_CodeCorrection.py`
-  - `Task2_SettingAScene.py`
-  - `Task3_CateringChoices.py`
+  - `Task2_TheEventPlanner.py`
 - **Exercises Hands-on Coding**
   - `MovieNightDecision.py`
   - `NestedFoodChoice.py`
